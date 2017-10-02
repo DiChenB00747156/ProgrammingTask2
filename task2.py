@@ -25,7 +25,7 @@ def print_format(dict1,dict2):
 		
 dict1=get_type_id(myfile)
 dict2=get_id_count(myfile)
-print_format(dict1,dict2
+print_format(dict1,dict2)
 
 	
 
